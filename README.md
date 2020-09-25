@@ -5,3 +5,5 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 Link to the endpoint: http://image-filter-hima-dev.us-east-1.elasticbeanstalk.com/
 
 Link with the GET Request: http://image-filter-hima-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://www.gstatic.com/webp/gallery/1.sm.jpg
+
+Feedback received regarding branches for GIT. Created new "Development" branch.
